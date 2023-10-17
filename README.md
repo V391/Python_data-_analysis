@@ -1,7 +1,7 @@
 # Python_data-_analysis
 
 Given: 
-- 120GB of Bureau data of users of a credit repayment app, across 200 CSV files
+- 120GB of Bureau data of users of a credit repayment app(similar to CRED), across 200 CSV files
 - The data is unique at a credit line level
 - each credit line has 34 parameters(columns) across which data is captured
 
