@@ -14,4 +14,4 @@ Available Approaches:
 1. Push all data to Bigquery & write SQL queries to get answer
 2. Write a Python script for data extraction & processing 
 
-We have use (2) here.
+We have used (2) here.
