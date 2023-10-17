@@ -15,3 +15,7 @@ Available Approaches:
 2. Write a Python script for data extraction & processing 
 
 We have used (2) here.
+
+There are two Jupyter notebooks attached:
+1. Bureau_CL_PL- data processing from a set of given CSV files in local storage
+2. batch_output - combines the individual outputs of all the processed CSVs
